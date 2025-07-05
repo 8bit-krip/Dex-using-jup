@@ -28,4 +28,4 @@ This script uses [Jupiter Aggregator](https://www.jup.ag/) APIs to swap **SOL** 
 
 ```bash
 git clone https://github.com/your-username/week-9-swap-contract.git
-cd week-9-swap-contract
+cd Dex-using-jup
